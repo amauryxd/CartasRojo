@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: nicoarma2
+  m_EditorClassIdentifier: 
+  cartaNombre: jasygd
+  elemento: {fileID: 0}
+  hablidadNombre: dfgdsfgdsfgsd
+  hablidadDescripcion: dfgsdgfdsgdfgdsgdfgds
+  armaDescripcion: gfdgsfdgdsgdsfgsgfsgfsghsfhsgfsdg
+  nombrePersona: nico
+  cartaColor: {r: 0.98564017, g: 1, b: 0, a: 0}
+  modeloArma: {fileID: 7971976169663417839, guid: 4e95f7f43fd02714792be19973c1a243,
+    type: 3}

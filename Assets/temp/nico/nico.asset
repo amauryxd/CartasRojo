@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: nico
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: 0c04b0c4568e3b84996d204bdcd705d9, type: 2}
+  - {fileID: 11400000, guid: bae6e44833f6bbe49b8b0de015d2d57f, type: 2}
+  - {fileID: 11400000, guid: c7ad50405825a9644810370e9f49286d, type: 2}
+  - {fileID: 11400000, guid: cbb9ade1f3326b64997874cf8640ed4b, type: 2}
+  - {fileID: 11400000, guid: 2ae6b7a47a9228744b1ea91da44a6e5a, type: 2}
+  - {fileID: 11400000, guid: b47d5a45396d06a4e863b76a0702ab88, type: 2}
+  - {fileID: 11400000, guid: c6128824f3d62b649be52106bd42b77e, type: 2}
+  - {fileID: 11400000, guid: 4cece54f858a1424f950348e7a8b2664, type: 2}
+  nombreCreador: nico
