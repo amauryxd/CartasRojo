@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
   m_Name: NuevaArmaDespcricion(cambiarEsteNombre)
   m_EditorClassIdentifier: 
-  cartaNombre: 
-  elemento: {fileID: 0}
-  hablidadNombre: 
-  hablidadDescripcion: 
-  armaDescripcion: 
-  nombrePersona: 
-  modeloArma: {fileID: 0}
+  cartaNombre: Mataenanos
+  elemento: {fileID: 21300000, guid: a0a1399880bd9ff468e12a400eed2cea, type: 3}
+  hablidadNombre: Alfonso
+  hablidadDescripcion: Huele a humedad
+  armaDescripcion: platano con pelos
+  nombrePersona: panchito
+  cartaColor: {r: 0.11536091, g: 0.6037736, b: 0, a: 0}
+  modeloArma: {fileID: 1895894233999303502, guid: 4f7041138c5b0ba43a5580cca374d85a,
+    type: 3}

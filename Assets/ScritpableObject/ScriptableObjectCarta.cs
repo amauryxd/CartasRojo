@@ -7,9 +7,12 @@ public class ScriptableObjectCarta : ScriptableObject
     [SerializeField] private string cartaNombre;
     [SerializeField] private Sprite elemento;
     [SerializeField] private string hablidadNombre;
+    [TextArea(2, 2)]
     [SerializeField] private string hablidadDescripcion;
+    [TextArea(2, 2)]
     [SerializeField] private string armaDescripcion;
     [SerializeField] private string nombrePersona;
+    [SerializeField] private Color cartaColor;
     [SerializeField] private GameObject modeloArma;
 
     public string CartaNombre { get { return cartaNombre; } }
@@ -18,6 +21,7 @@ public class ScriptableObjectCarta : ScriptableObject
     public string HablidadDescripcion { get { return hablidadDescripcion; } }
     public string ArmaDescripcion { get { return armaDescripcion; }}
     public string NombrePersona { get {  return nombrePersona; }}
+    public Color CartaColor { get { return cartaColor; } }
     public GameObject ModeloArma { get {  return modeloArma; }}
 
 }
