@@ -65,7 +65,7 @@ Por ejemplo mi arma de hielo necesita esto:
 
 Ya con esto, mi arma no deberia de pasarle nada al momento de pasarla al otro proyecto<br>
 lo que sigue es repetir el proceso hasta terminar todas sus armas<br><br>
-Una vez Terminadas todas las armas ahora si es momento de exportar<br>
+**Una vez Terminadas todas las armas ahora si es momento de exportar**<br>
 Nos dirigimos en la parte de arriba En Assets>Export Package...
 ![Donde](./imgTuto/ExportarDonde.png)<br>
 
@@ -77,13 +77,13 @@ Como en el siguiente caso:
 
 Aparece la carpeta con mi nombre pero tambien otras mas<br>
 En este caso hay de 2
-- Son materiales necesarios para tus armas
-- Son dependencias de unity o de algo que agregaste
+- No metiste todo lo que necesitaba tu arma y en estas carpetas se encuentran
+- Son dependencias de unity o similares
 
 **¿Como las diferencio?**<br>
 Pues tendrás que checar cuales de las cosas que faltan si las usan tus armas y cuales no<br>
 
-En caso de comprobar que a tus armas no le falta nada, y aun asi sigan apareciendo carpetas, probablemente sean dependecias, lo único que hacemos es deseleccionarlas<br>
+En caso de comprobar que a tus armas no les falta nada, y aun asi sigan apareciendo carpetas, probablemente sean dependecias, lo único que hacemos es deseleccionarlas<br>
 ![Exporting1](./imgTuto/ExportarNo4.png)
 ![Exporting](./imgTuto/ExportarNo3.png)<br>
 
@@ -91,5 +91,31 @@ Ahora le asignamos un nombre y lo guardamos
 
 ![Guardado](./imgTuto/ExportarParte4.png)
 
-Genial, ahora ya tenemos nuestro packete exportado, solo falta 1 paso más
-## Como importar y agregar nuestras armas
+Genial, ahora ya tenemos nuestro packete exportado, solo falta 2 paso más
+## Como importar
+Para empezar vamos a importar nuestras armas<br>
+Para ello vamos a Assets>Import Package...>Custom Package...
+
+![Importar](./imgTuto/Importar1.png)
+
+Seleccionamos el que creamos
+
+![Importar2](./imgTuto/Importar2.png)
+
+Nos saldra esta ventana, solo le damos a importar
+
+![Importar3](./imgTuto/Importar3.png)
+
+Su carpeta con su nombre deberia aparecer, porfa **Pasenlo dentro de la carpeta _Armas_**
+
+![importar4](./imgTuto/tutogif1%20(2).gif)
+
+Ahora dentro de la carpeta con tu nombre, crean un nueva carpeta<br>
+De preferencia que se llame como tu + SOB<br>
+En mi caso es `AmaurySOB`
+
+![Importar5](./imgTuto/SOB1.png)
+
+Genial ahora solo falta agregar tus armas
+
+## Como agregar las armas
