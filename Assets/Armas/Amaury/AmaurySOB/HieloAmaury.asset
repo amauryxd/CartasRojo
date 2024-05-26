@@ -15,10 +15,10 @@ MonoBehaviour:
   cartaNombre: Bolis
   elemento: {fileID: 21300000, guid: f51bbdcfefe077b4e81a14c63a86755c, type: 3}
   hablidadNombre: Impacto Congelada
-  hablidadDescripcion: "Este arco absorvera toda la energ\xEDa alrededor para liberarla
+  hablidadDescripcion: "Este arco absorbera toda la energ\xEDa alrededor para liberarla
     de forma violenta junto con la flecha"
   armaDescripcion: "Esta arma fue encontrada en el pico de una monta\xF1a ancestral
-    que era antiguamente cuidada por un drag\xF3n"
+    que antiguamente era cuidada por un drag\xF3n"
   nombrePersona: Amaury
   cartaColor: {r: 0, g: 1, b: 0.8888178, a: 0}
   modeloArma: {fileID: 4277035873473739551, guid: d83a68110c7cfbe419edfc9ec5a57083,

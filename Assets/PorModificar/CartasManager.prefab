@@ -48,8 +48,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   listaCartas:
-  - {fileID: 11400000, guid: 9925d0c86f9794f45bb4b52da6f9e62b, type: 2}
-  - {fileID: 11400000, guid: 53584c2c03cbe894f9bfaee29146b0ba, type: 2}
   - {fileID: 11400000, guid: 172b54869176f9240a608a6579f0d302, type: 2}
   controladoresCartas:
   - {fileID: 0}

@@ -3096,7 +3096,7 @@ PrefabInstance:
     - target: {fileID: 3077615418540405979, guid: ef7298c8841213f42ba527e6eab763dc,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.33
       objectReference: {fileID: 0}
     - target: {fileID: 3077615418540405979, guid: ef7298c8841213f42ba527e6eab763dc,
         type: 3}
@@ -3151,8 +3151,14 @@ PrefabInstance:
     - target: {fileID: 5417392870124673582, guid: ef7298c8841213f42ba527e6eab763dc,
         type: 3}
       propertyPath: listaCartas.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5417392870124673582, guid: ef7298c8841213f42ba527e6eab763dc,
+        type: 3}
+      propertyPath: listaCartas.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 172b54869176f9240a608a6579f0d302,
+        type: 2}
     - target: {fileID: 5417392870124673582, guid: ef7298c8841213f42ba527e6eab763dc,
         type: 3}
       propertyPath: listaCartas.Array.data[1]

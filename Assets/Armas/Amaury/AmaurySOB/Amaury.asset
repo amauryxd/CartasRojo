@@ -12,5 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
   m_Name: Amaury
   m_EditorClassIdentifier: 
-  armasSOB: []
-  nombreCreador: 
+  armasSOB:
+  - {fileID: 11400000, guid: 6827f4412fbe2ae4c81321c04583d305, type: 2}
+  - {fileID: 11400000, guid: cb82396e9d3324b43b40a95e2c476eb9, type: 2}
+  - {fileID: 11400000, guid: bfd26a6226885e049a569dc5aa8024c6, type: 2}
+  - {fileID: 11400000, guid: 653cbad0a3a230e4486894514277cf10, type: 2}
+  - {fileID: 11400000, guid: d65ce42f608615d41b87516089e11615, type: 2}
+  - {fileID: 11400000, guid: c40083ef0d678924aa2b701e3a5cf558, type: 2}
+  - {fileID: 11400000, guid: f9b65487a4c14ee45a49f9a2fbb3c647, type: 2}
+  - {fileID: 11400000, guid: c3288ca3941f0284391bb196e2129deb, type: 2}
+  nombreCreador: Amaury
