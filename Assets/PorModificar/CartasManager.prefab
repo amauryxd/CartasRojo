@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5417392870124673582}
   - component: {fileID: 7288185834222869877}
   - component: {fileID: 7018132997791125103}
+  - component: {fileID: 4805395588236219208}
   m_Layer: 0
   m_Name: CartasManager
   m_TagString: Untagged
@@ -48,6 +49,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   listaCartas:
   - {fileID: 11400000, guid: 9925d0c86f9794f45bb4b52da6f9e62b, type: 2}
+  - {fileID: 11400000, guid: 53584c2c03cbe894f9bfaee29146b0ba, type: 2}
+  - {fileID: 11400000, guid: 172b54869176f9240a608a6579f0d302, type: 2}
   controladoresCartas:
   - {fileID: 0}
   - {fileID: 0}
@@ -85,3 +88,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controler: {fileID: 0}
+--- !u!114 &4805395588236219208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2668380414337951728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f454ef184a12724a95d084b2a663fb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dropd: {fileID: 0}

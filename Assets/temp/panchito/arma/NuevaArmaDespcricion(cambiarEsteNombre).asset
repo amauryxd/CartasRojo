@@ -19,5 +19,5 @@ MonoBehaviour:
   armaDescripcion: platano con pelos
   nombrePersona: panchito
   cartaColor: {r: 0.11536091, g: 0.6037736, b: 0, a: 0}
-  modeloArma: {fileID: 4277035873473739551, guid: d83a68110c7cfbe419edfc9ec5a57083,
+  modeloArma: {fileID: 1895894233999303502, guid: 4f7041138c5b0ba43a5580cca374d85a,
     type: 3}

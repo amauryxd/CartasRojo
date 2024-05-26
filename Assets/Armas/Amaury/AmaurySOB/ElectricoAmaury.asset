@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: ElectricoAmaury
+  m_EditorClassIdentifier: 
+  cartaNombre: "Arco Telem\xE9trico"
+  elemento: {fileID: 21300000, guid: 407a2039ab2984842a39e87290ed535e, type: 3}
+  hablidadNombre: "Maxima presi\xF3n"
+  hablidadDescripcion: "El arco se tensara completamente, haciendo girar las turbinas
+    a lo m\xE1ximo que dan y al momento de soltar la flecha un potente chispa cargara
+    la flecha"
+  armaDescripcion: Se dice que esta arma viajo de un futuro incierto, donde las maquinas
+    gobiernan sobre todo ser vivo
+  nombrePersona: Amaury
+  cartaColor: {r: 0.8679245, g: 0.60766536, b: 0, a: 0}
+  modeloArma: {fileID: 3633801834191538619, guid: 0decf5aec9d567e42b0e922712ff8546,
+    type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: PlantaAmaury
+  m_EditorClassIdentifier: 
+  cartaNombre: "Rama de \xC1rbol"
+  elemento: {fileID: 21300000, guid: a0a1399880bd9ff468e12a400eed2cea, type: 3}
+  hablidadNombre: Busqueda de vida
+  hablidadDescripcion: El arco empezara buscar toda forma de planta cercana y se
+    posaran delante del usario para protegerlo de cualquier ataque
+  armaDescripcion: "Esta arma conciente, selecciona cual ser\xE1 su siguiente portador
+    a base de su karma positiva"
+  nombrePersona: Amaury
+  cartaColor: {r: 0.14946763, g: 0.8301887, b: 0.011747932, a: 0}
+  modeloArma: {fileID: 6211611018881383524, guid: 34c1d3e4bc99b334eab9c2f99c7ef5ca,
+    type: 3}

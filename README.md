@@ -1,6 +1,13 @@
 # Instrucciones para agregar tus armas
+Hola :D<br>
+Ya de primeras me disculpo lo extenso del documento, pero trate de ser lo más detallista posible<br>
+De favor les pido:
+- No toquen nada de la escena o de los componentes más allá de lo que especifico en el docuemnto
+- Traten de leer todo el documento al mismo tiempo que van haciendo los pasos, puede ser tedioso, pero es para agilisar el proceso y tratar de evitar problemas comunes
+- Si hacen todo completamente como en las instrucciones y no sirve avisenme pls
+- Si sale un error de _mergeo_ solo avisenme y yo lo corrigo
+- De ultimo recordarles que esto es calficiación grupal c:
  ## Como Preparar tus armas para exportar
- Hola :D<br>
  Para empezar vamos a habrir el proyecto donde tienes tus armas _(el proyecto que le enseñaste a rojo)_<br><br>
  Ahora necesitamos crear un cubo, resetamos su transform, y modifcamos su escala con 1, 5.5 , 8
 <br>
@@ -154,7 +161,8 @@ los campos son los siguientes:
 - Modelo Arma
     - `Tipo GameObject` Aquí va a tu prefab
 
-Empezamos a rellenar todos los espacios, en el caso de Elemento, podemos encontrar las imagenes en `Asstes/ElementosImagenes`
+Empezamos a rellenar todos los espacios, en el caso de Elemento, podemos encontrar las imagenesen `Asstes/ElementosImagenes`<br>
+**LAS 2 ARMAS DE TEMATICA ESPECIAL FAVOR DE PONERLE EL DE OTHER**
 
 ![SOB6](./imgTuto/SOB6.png)<br>
 
@@ -174,4 +182,57 @@ Cuando terminen debería de verse algo parecido a esto:
 
 ![Sob9](./imgTuto/SOB9.png)
 
-genial, ahora hacemos eso con todas nuestras armas
+genial, ahora hacemos eso con todas nuestras armas<br>
+Cuando acabemos tendremos algo parecido a esto:
+
+![Sobf](./imgTuto/SOBF.png)
+
+### PORFAVOR LES REPITO QUE COMPRUEBEN QUE TODOS LOS CAMPOS ESTEN COMPLETOS
+
+Ahora tenemos que crear un controlador<br>
+En la misma carpeta donde creamos las descripciones, en mi caso `AmaurySOB`, vamos a crear un controlador para las cartas
+Damos click derecho en la carpeta, luego en create > Crear controlador de tus cartas
+
+![controlador](./imgTuto/Controlador1.png)
+
+Una vez creado, de preferencia poner su nombre para que sea más identificable
+
+![COntroladro2](./imgTuto/controlador2.png)
+
+En el inspector aparecera lo siguiente:
+
+![Controlador3](./imgTuto/Controlador3.png)
+
+- Armas SOB
+    - `Tipo ScriptableObject` Aqui hay que meter todas las descripciones de las armas en el orden que queremos que aparezcan
+- Nombre creador
+    - `Tipo String` Aqui deben de poner su nombre _(Solo pongan su primer nombre o algo que los idetifique)_
+
+Al final tendriamos que tener algo parecido a esto:
+
+![Controlador4](./imgTuto/Controlador4.png)
+
+Ahora vamos a buscar la carpeta pormodificar, en Assets / PorModificar
+
+![Controlador5](./imgTuto/Controlador5.png)
+
+Dentro encontraremos _cartas manager_
+
+![Controlador6](./imgTuto/Controlador6.png)
+
+Dan doble click y en el inspector aparecera algo parecido a esto:<br>
+_Panchito y nico son nombres temporales para ejemplo_
+
+![Controlador7](./imgTuto/Controlador7.png)
+
+Solo tienen que agregar el controlador que acaban de hacer con su nombre al apartado **Lista Cartas**
+
+### NO TOCAR NADA MAS QUE _LISTA CARTAS_
+
+![GIf3](./imgTuto/tutogif2%20(2).gif)
+
+## Y terminaste! Si hiciste todo correcto y con todos los pasos, tus cartas ya se muestran
+
+![Ultimo](./imgTuto/monasi.gif)
+
+**Cualquier error que encuentres hasmelo saber porfi**

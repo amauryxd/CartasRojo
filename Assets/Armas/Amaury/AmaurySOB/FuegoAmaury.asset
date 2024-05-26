@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: FuegoAmaury
+  m_EditorClassIdentifier: 
+  cartaNombre: "Creaci\xF3n Drag\xF3nica"
+  elemento: {fileID: 21300000, guid: 85b0cbb00d13aa448bac8a11e691f189, type: 3}
+  hablidadNombre: Respirar de un dragon
+  hablidadDescripcion: "El usuario podra desatar la furia del drag\xF3n contenida
+    cargando la flecha de fuego al momento de lanzarla"
+  armaDescripcion: "Se rumorea que nacio despues de derrotar a un drag\xF3n, como
+    si su resentimiento se materializara"
+  nombrePersona: Amaury
+  cartaColor: {r: 0.745283, g: 0.0035154943, b: 0.0035154943, a: 0}
+  modeloArma: {fileID: 874590008246905844, guid: 6fbd0e2ff861f094ba6bd4aa5c8d0630,
+    type: 3}
