@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: Shika
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: dcad68dc8720c0e449091922b1a45905, type: 2}
+  - {fileID: 11400000, guid: f41457eed1440044383a10a0fcd10fd1, type: 2}
+  - {fileID: 11400000, guid: 82aa6a5db50a2e04b88edc2c5d4ce9ef, type: 2}
+  - {fileID: 11400000, guid: 8c1aa73049f0f354fa5d8141b8c1be37, type: 2}
+  - {fileID: 11400000, guid: 30d15e4f9f91c714da1ac4f24dfe93a7, type: 2}
+  - {fileID: 11400000, guid: 030e708f91f29084588b89dc2d2424bf, type: 2}
+  - {fileID: 11400000, guid: 7c50f7f5f9f6781449abe969db4679e2, type: 2}
+  - {fileID: 11400000, guid: 41eaa4bb62865994888c2606be41a065, type: 2}
+  nombreCreador: Shika

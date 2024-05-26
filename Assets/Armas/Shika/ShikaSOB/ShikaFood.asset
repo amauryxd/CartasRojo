@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: ShikaFood
+  m_EditorClassIdentifier: 
+  cartaNombre: Take Out
+  elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
+  hablidadNombre: Rush Hour
+  hablidadDescripcion: "Crea un mont\xF3n de comida, restaura 50 HP."
+  armaDescripcion: "Lo \xFAltimo en inovaci\xF3n de la comida r\xE1pida!"
+  nombrePersona: Shika
+  cartaColor: {r: 0.82745105, g: 0.23137257, b: 0.18039216, a: 0}
+  modeloArma: {fileID: 2597961076809384928, guid: 55617ceaf9fb2f6468929563438ff0ad,
+    type: 3}
