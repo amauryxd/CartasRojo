@@ -235,4 +235,5 @@ Solo tienen que agregar el controlador que acaban de crear con su nombre al apar
 
 ![Ultimo](./imgTuto/monasi.gif)
 
-**Cualquier error que encuentres hazmelo saber porfi**
+**Cualquier error que encuentres hazmelo saber porfi**<br>
+_Un gracias a compa ian que me ayudo a corregir la redacción_
