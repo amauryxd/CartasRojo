@@ -119,3 +119,59 @@ En mi caso es `AmaurySOB`
 Genial ahora solo falta agregar tus armas
 
 ## Como agregar las armas
+Dentro de su carpeta con terminacion _SOB_ damos click derecho en create > Crea una nueva descripcion de arma
+
+![Sob2](./imgTuto/SOB2.png)
+
+Nos creara este archivo:
+
+![Sob3](./imgTuto/SOB3.png)
+
+El nombre de preferencia que sea del arma que van a describir
+
+![Sob4](./imgTuto/SOb4.png)
+
+Ahora, al seleccionar el objeto dentro del inspector aparecera lo siguiente:
+
+![Sob5](./imgTuto/SOB5.png)
+
+los campos son los siguientes:
+
+-   Carta Nombre
+    - `Tipo String` Es el nombre de tu arma
+- Elemento
+    - `Tipo Sprite o imagen` Es la imagen del elemento de la carta _(más adelante te explico donde agragarlo)_
+- Habilidad Nombre
+    - `Tipo String` Es el nombre de la habilidad de tu arma
+- Habilidad Descripción
+    - `Tipo String` Es la descripción de lo que hace la habilidad de tu arma
+- Arma descripción
+    - `Tipo String` Es el transfondo de tu arma
+- Nombre Persona
+    - `Tipo String` Es tu nombre
+- Carta Color
+    - `Tipo Color` Es el color que quieres que tu carta tenga
+- Modelo Arma
+    - `Tipo GameObject` Aquí va a tu prefab
+
+Empezamos a rellenar todos los espacios, en el caso de Elemento, podemos encontrar las imagenes en `Asstes/ElementosImagenes`
+
+![SOB6](./imgTuto/SOB6.png)<br>
+
+En el caso de Modelo Arma, Fijense muy bien que metieron el prefab y no el modelo:
+
+![so](./imgTuto/so.png)
+
+Cuando llegemos a modelo de arma tienen que buscar tu **prefab del arma**, no el modelo<br>
+**Un consejo que puedo para que sea más fácil, en el inspector, en los 3 puntos, da click en _Properties..._ soltara una ventana flotante que te dejara navegar entre los archivos**
+
+![SOB7](./imgTuto/SOB8.png)
+
+### PORFAVOR RELLENEN TODOS LOS CAMPOS
+porque si no se van a tronar el programa<br>
+
+Cuando terminen debería de verse algo parecido a esto:
+
+![Sob9](./imgTuto/SOB9.png)
+
+genial, ahora hacemos eso con todas nuestras armas
