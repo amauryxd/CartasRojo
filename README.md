@@ -7,8 +7,8 @@
 ![Como modificar la escala](./imgTuto/Escala.png)<br>
 Tendran este cubito
 ![Cubo](./imgTuto/CuboZ.png)<br>
-### ¡Esta sera la pantalla que tendran para mostrar su arma!<br>
-Ahora el caso es tratar de meter tus armas dentro de esta escala<br><br>
+### Esta sera la pantalla que tendran para mostrar su arma<br>
+Ahora el caso es tratar de meter tus armas dentro de este cubo<br>
 Para saber que estamos viendo del lado correcto, la "Z" de nuestro navegador debe de estar a la derecha<br>
 ![Navegador](./imgTuto/Navegador.png)<br>
 Ahora tenemos que ajustar nuestra arma<br>
@@ -24,11 +24,72 @@ Ahora vamos a corregirlo<br>
 **Primero** vamos resetear el transform del arma
 
 ![Ejemplo1](./imgTuto/Ejemplo1.png)![Ejemplo2](./imgTuto/Ejemplo2.png)<br>
-Peeero todavia no esta dentro del cubo, ahora si sera a mano tratar de que tu arma este dentro del cubo _(Recuerden que la "Z" del navegador este a la derecha)_
+todavia no esta dentro del cubo<br>
+ahora manualmente trata de que tu arma este dentro del cubo _(Recuerden que la "Z" del navegador este a la derecha)_
 
 ![Ahorasi](./imgTuto/Ahorasi.png)![Ahorasi2](./imgTuto/Ahorasi2.png)<br>
+
+Si por algun motivo el arma queda un tantito más afuera del cubo, solo por si acaso les recomiendo meterlo tantito
+
+![Afuera1](./imgTuto/Afuera1.png)![Afuera2](./imgTuto/Afuera2.png)
 
 Perfecto, ahora creamos el prefab del arma que tenemos crear el prefab de lo que acabamos de mover
 
 ![Comogif](./imgTuto/tutogif%20(2).gif)
-# Como exportar
+## Como exportar
+Ahora para exportar les voy a pedir un poco más de cuidado, ya que se pueden llegar a exportar codigos o dependencias inecesarias que pueden hacer que el proyecto se muera<br>
+No lo digo por mala onda pero es probable que algunos tengamos un desastre en el proyecto, y esto tambien se exportara<br>
+Para evitar que esto llege al otro proyecto y luego tengamos problemas para encontrar cosas o se haga un despapaye vamos a hacer lo siguiente:<br>
+**Empezamos por crear una carpeta con nuestro nombre**
+
+![ExportarTuto1](./imgTuto/ExportarParta1.png)<br>
+Ahora vamos a empezar a meter cosas<br>
+Les recomiendo crear carpetas con los nombres de los elementos adentro
+
+![ExportarTuto2](./imgTuto/ExportarParte2.png)<br>
+
+Ahora empiezen a pasar todo lo que necesiten dentro de estas carpetas<br>
+Probablemente tengan que pasar:
+- Modelo del arma
+- Shader Graphs
+- Materiales
+- Animaciones
+- Prefab del arma que crearon antes
+
+Esta lista solo es una sugerencia, si su arma necesita algo mas de lo que puse en la lista, metanlo también<br>
+Lo que trato de decir:
+> Metan todo lo que tu arma necesite y deja fuera todo lo que no es necesario
+
+Por ejemplo mi arma de hielo necesita esto:
+![ExportarTuto3](./imgTuto/ExportarParte3.png)<br>
+
+Ya con esto, mi arma no deberia de pasarle nada al momento de pasarla al otro proyecto<br>
+lo que sigue es repetir el proceso hasta terminar todas sus armas<br><br>
+Una vez Terminadas todas las armas ahora si es momento de exportar<br>
+Nos dirigimos en la parte de arriba En Assets>Export Package...
+![Donde](./imgTuto/ExportarDonde.png)<br>
+
+### CHECAMOS QUE SOLO IMPORTEMOS LA CARPETA CON NUESTRO NOMBRE
+Si por algun motivo no solo aparece nuestra carpeta con nuestro nombre **ESTA MAL**<br>
+Como en el siguiente caso:
+
+![exportalMal](./imgTuto/ExportarNo.png)
+
+Aparece la carpeta con mi nombre pero tambien otras mas<br>
+En este caso hay de 2
+- Son materiales necesarios para tus armas
+- Son dependencias de unity o de algo que agregaste
+
+**¿Como las diferencio?**<br>
+Pues tendrás que checar cuales de las cosas que faltan si las usan tus armas y cuales no<br>
+
+En caso de comprobar que a tus armas no le falta nada, y aun asi sigan apareciendo carpetas, probablemente sean dependecias, lo único que hacemos es deseleccionarlas<br>
+![Exporting1](./imgTuto/ExportarNo4.png)
+![Exporting](./imgTuto/ExportarNo3.png)<br>
+
+Ahora le asignamos un nombre y lo guardamos
+
+![Guardado](./imgTuto/ExportarParte4.png)
+
+Genial, ahora ya tenemos nuestro packete exportado, solo falta 1 paso más
+## Como importar y agregar nuestras armas
