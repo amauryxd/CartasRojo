@@ -3151,7 +3151,7 @@ PrefabInstance:
     - target: {fileID: 5417392870124673582, guid: ef7298c8841213f42ba527e6eab763dc,
         type: 3}
       propertyPath: listaCartas.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5417392870124673582, guid: ef7298c8841213f42ba527e6eab763dc,
         type: 3}
@@ -3164,6 +3164,12 @@ PrefabInstance:
       propertyPath: listaCartas.Array.data[1]
       value: 
       objectReference: {fileID: 11400000, guid: 032adaec273a7834bad30309e89758e8,
+        type: 2}
+    - target: {fileID: 5417392870124673582, guid: ef7298c8841213f42ba527e6eab763dc,
+        type: 3}
+      propertyPath: listaCartas.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: fa88accec8115244991ceef8b0cf00f5,
         type: 2}
     - target: {fileID: 5417392870124673582, guid: ef7298c8841213f42ba527e6eab763dc,
         type: 3}
