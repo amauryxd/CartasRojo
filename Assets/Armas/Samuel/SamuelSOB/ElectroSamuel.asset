@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: ElectroSamuel
+  m_EditorClassIdentifier: 
+  cartaNombre: Truenofilo
+  elemento: {fileID: 21300000, guid: 407a2039ab2984842a39e87290ed535e, type: 3}
+  hablidadNombre: Delay electrico
+  hablidadDescripcion: El arma al hacer impacto causara la caida de un relampago
+    en el enemigo, pero dependiendo de cuanto se carge el arma, este relampago caera
+    tiempo despues pero sera aun mas fuerte.
+  armaDescripcion: Se cuenta que se uso un rayo mismo para crear la hoja del Tuenofilo,
+    pero son solo especulaciones.
+  nombrePersona: Samuel
+  cartaColor: {r: 1, g: 0.94159245, b: 0.4764151, a: 0}
+  modeloArma: {fileID: 179901806210525937, guid: f2ba3a0063cb202438c724f3766534bc,
+    type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: LuzSamuel
+  m_EditorClassIdentifier: 
+  cartaNombre: Divinadora
+  elemento: {fileID: 21300000, guid: 8be7ccd322fa86447b3cc85a048af350, type: 3}
+  hablidadNombre: Purificacion
+  hablidadDescripcion: AL hacer impcto con un enemigo purifica su alma
+  armaDescripcion: Esta arma fue concedida a un valiente heroe por rezar pacientemente
+    en el altar de una diosa.
+  nombrePersona: Samuel
+  cartaColor: {r: 0.8962264, g: 0.47770557, b: 0.7810505, a: 0}
+  modeloArma: {fileID: 9160027751341091759, guid: eb4d6d46d551baa43b462621d6233671,
+    type: 3}
