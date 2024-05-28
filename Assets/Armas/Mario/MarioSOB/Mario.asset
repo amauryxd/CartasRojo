@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: Mario
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: 3e81f20b48b37184a84d0ce2f05c78d8, type: 2}
+  - {fileID: 11400000, guid: 2963f04136ba02449bec477ab8ae572c, type: 2}
+  - {fileID: 11400000, guid: 35bf56860999f2343b8a9eac62d3d85e, type: 2}
+  - {fileID: 11400000, guid: cce66a96c0c280341a9ad804824d0454, type: 2}
+  - {fileID: 11400000, guid: 9589e45b14e963b4188e32c42c13f2f9, type: 2}
+  - {fileID: 11400000, guid: b98d67b8b93bc8b40b3eeb4bcb665043, type: 2}
+  - {fileID: 11400000, guid: 4983af648c179b345af0108fd18fbba3, type: 2}
+  - {fileID: 11400000, guid: 7141ddf7eb2687847a35a9151380d827, type: 2}
+  nombreCreador: Mario
