@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: MIAUCarol
+  m_EditorClassIdentifier: 
+  cartaNombre: MIAU MIAU POWER
+  elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
+  hablidadNombre: EVERYTHING IS PAWSIBLE
+  hablidadDescripcion: El grimorio invocara 100 gatos rosas uwu uwu uwu
+  armaDescripcion: "Lo hice en mi tiempo libre, puede ayudarte con el estr\xE9s :333333"
+  nombrePersona: Carol
+  cartaColor: {r: 0.8962264, g: 0.6045301, b: 0.7915766, a: 0}
+  modeloArma: {fileID: 3266083375534572682, guid: cdd457353fc28bb4d9d21217d0371c65,
+    type: 3}

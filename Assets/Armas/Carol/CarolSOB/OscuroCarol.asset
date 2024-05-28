@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: OscuroCarol
+  m_EditorClassIdentifier: 
+  cartaNombre: Agujero Negro
+  elemento: {fileID: 21300000, guid: e9dc468c9efaa6a46abd44d2cabfcbc0, type: 3}
+  hablidadNombre: "Espaguetificaci\xF3n"
+  hablidadDescripcion: "Al soltar \xE9sta carta el campo gravitacional se tragar\xE1
+    las cartas de los dem\xE1s jugadores"
+  armaDescripcion: "Al chocar dos supernovas se cre\xF3 este agujero negro s\xFAper
+    masivo, a veces suelta tentaculos de su interior \xBFVivir\xE1 algo dentro?"
+  nombrePersona: Carol
+  cartaColor: {r: 0, g: 0, b: 0, a: 0}
+  modeloArma: {fileID: 5932276556132682037, guid: 3e179de2b6cad3c4b86e6b7896630d06,
+    type: 3}

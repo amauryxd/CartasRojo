@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: Carol
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: 806c3b9f5072325489a633d1f3515ed5, type: 2}
+  - {fileID: 11400000, guid: b11b4c115c107e546ad87e251286c306, type: 2}
+  - {fileID: 11400000, guid: 18962466d2052a045936a28035c7b135, type: 2}
+  - {fileID: 11400000, guid: fab1a320512e35c49a54ee0d407062f4, type: 2}
+  - {fileID: 11400000, guid: fcd19a80e7acf8949aaedb134fa2ea66, type: 2}
+  - {fileID: 11400000, guid: 2cc9a1a92d9b73847963879212dde576, type: 2}
+  - {fileID: 11400000, guid: ef1f883fa8444a94d8428f08fd462cfc, type: 2}
+  - {fileID: 11400000, guid: 2e325dfa4d9f5ce429c008fa9bdabe7b, type: 2}
+  nombreCreador: Carol
