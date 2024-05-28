@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 1608.3967, g: 1927.511, b: 1961.9944, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3151,7 +3151,7 @@ PrefabInstance:
     - target: {fileID: 5417392870124673582, guid: ef7298c8841213f42ba527e6eab763dc,
         type: 3}
       propertyPath: listaCartas.Array.size
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5417392870124673582, guid: ef7298c8841213f42ba527e6eab763dc,
         type: 3}
@@ -3170,6 +3170,12 @@ PrefabInstance:
       propertyPath: listaCartas.Array.data[2]
       value: 
       objectReference: {fileID: 11400000, guid: fa88accec8115244991ceef8b0cf00f5,
+        type: 2}
+    - target: {fileID: 5417392870124673582, guid: ef7298c8841213f42ba527e6eab763dc,
+        type: 3}
+      propertyPath: listaCartas.Array.data[3]
+      value: 
+      objectReference: {fileID: 11400000, guid: f271fd256d5023a43b6abe3ff6b58387,
         type: 2}
     - target: {fileID: 5417392870124673582, guid: ef7298c8841213f42ba527e6eab763dc,
         type: 3}

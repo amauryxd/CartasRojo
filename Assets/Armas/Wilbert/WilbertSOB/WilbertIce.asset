@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: WilbertIce
+  m_EditorClassIdentifier: 
+  cartaNombre: Kusarigama helada
+  elemento: {fileID: 21300000, guid: f51bbdcfefe077b4e81a14c63a86755c, type: 3}
+  hablidadNombre: Golpe Congelado
+  hablidadDescripcion: "Al golpear al oponente, este se congela haciendo que no se
+    pueda mover, el siguiente golpe hara el doble de da\xF1o"
+  armaDescripcion: Esta arma fue usada por una antigua civilizacion que se encontraba
+    en el artico
+  nombrePersona: Wilbert
+  cartaColor: {r: 0.376602, g: 0.8293124, b: 0.8584906, a: 0}
+  modeloArma: {fileID: 62334007687847034, guid: 5bc000627ff50d84bb4ad55dfaec6de0,
+    type: 3}
