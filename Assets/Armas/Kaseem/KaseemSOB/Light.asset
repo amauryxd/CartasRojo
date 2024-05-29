@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: Light
+  m_EditorClassIdentifier: 
+  cartaNombre: Zero
+  elemento: {fileID: 21300000, guid: 8be7ccd322fa86447b3cc85a048af350, type: 3}
+  hablidadNombre: Acumulador
+  hablidadDescripcion: "Toda, habilidad aprendida por el portador, podr\xE1 desempe\xF1arse,
+    m\xE1s en cambio, el portador, ser\xE1 inmortal, menos el mago"
+  armaDescripcion: "No hay mucha informaci\xF3n, pero se cree que provienen desde
+    el inicio de la creaci\xF3n"
+  nombrePersona: Kaseem
+  cartaColor: {r: 1, g: 1, b: 1, a: 0}
+  modeloArma: {fileID: 4832273110499949276, guid: 0ee4335c06e0cf44c8208dacc684ebd9,
+    type: 3}

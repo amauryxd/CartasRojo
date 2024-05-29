@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: Electro
+  m_EditorClassIdentifier: 
+  cartaNombre: "G\xF6ndur"
+  elemento: {fileID: 21300000, guid: 407a2039ab2984842a39e87290ed535e, type: 3}
+  hablidadNombre: Traspaso
+  hablidadDescripcion: "El choque de su arma, hace da\xF1o a grandes masas, pero
+    tam i\xE9n permite al usuario transportarse, por sus mismos rayoz."
+  armaDescripcion: "Un arama creada por los dioses del trueno, aunque ha tenidp varios
+    portadores, se cree que hay algo m\xE1s en ella."
+  nombrePersona: Kaseem
+  cartaColor: {r: 0, g: 0.45147848, b: 1, a: 0}
+  modeloArma: {fileID: 112782491870177786, guid: 7cf28c13441c4d54dab223c5b1a5fafc,
+    type: 3}
