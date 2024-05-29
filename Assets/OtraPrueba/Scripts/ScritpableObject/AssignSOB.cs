@@ -36,7 +36,7 @@ public class AssignSOB : MonoBehaviour
         imgElemento2.sprite = cartaInfo.Elemento;
         textNHablidad.text = cartaInfo.HablidadNombre;
         textDHabilidad.text = cartaInfo.HablidadDescripcion;
-        textArmaDesc.text = cartaInfo.HablidadDescripcion;
+        textArmaDesc.text = cartaInfo.ArmaDescripcion;
         Nombre.text = cartaInfo.NombrePersona;
         cartaMaterial.color = cartaInfo.CartaColor;
         //ahora instanciar el objeto

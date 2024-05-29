@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: PlantaSamuel
+  m_EditorClassIdentifier: 
+  cartaNombre: Enredadera
+  elemento: {fileID: 21300000, guid: a0a1399880bd9ff468e12a400eed2cea, type: 3}
+  hablidadNombre: Enredo
+  hablidadDescripcion: Esta arma al hacer impacto creara una enredadera enterrada
+    desde el suelo al enemigo, dependiendo lo cargada que este el arma la fuerza
+    de la enredadera sera mayor.
+  armaDescripcion: Antes era un simple kunai, pero al ser abandonada en un bosque,
+    fue poseida por una antigua alma del busque, asi mismo le da su habilidad.
+  nombrePersona: Samuel
+  cartaColor: {r: 0.21248412, g: 1, b: 0, a: 0}
+  modeloArma: {fileID: 9000329579006644603, guid: b721da1654a60784cac225502e2bdd71,
+    type: 3}

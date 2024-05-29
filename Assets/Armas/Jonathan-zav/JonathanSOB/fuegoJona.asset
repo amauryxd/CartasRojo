@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: fuegoJona
+  m_EditorClassIdentifier: 
+  cartaNombre: Aura-Ardiente
+  elemento: {fileID: 21300000, guid: 85b0cbb00d13aa448bac8a11e691f189, type: 3}
+  hablidadNombre: Calor-Extremo
+  hablidadDescripcion: "Calor extremo puede caletra el arma a mas de 3422 \xB0C ideal
+    para hacer Tungsteno sera mejor que esta habilidad  no te toque y no afecta a
+    su portador"
+  armaDescripcion: El aura ardiente fue encontrada en la cima de un volcan y otra
+    persona toca el arma que no sea su portador esa parte de su cuepo o ropa se incendiara
+    y se propagara muy rapidamente, es ideal para hacer tacos
+  nombrePersona: Jonathan-Zavala
+  cartaColor: {r: 0.6313726, g: 0, b: 0, a: 0}
+  modeloArma: {fileID: 4287973126571767627, guid: 2dd816bcc2112734899bbc862a13c3b6,
+    type: 3}

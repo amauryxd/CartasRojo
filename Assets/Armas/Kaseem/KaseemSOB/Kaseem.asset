@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: Kaseem
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: 9f3ce6a55d1625b4c9cec62994a92696, type: 2}
+  - {fileID: 11400000, guid: 4338451d87342334fb454caf91d36285, type: 2}
+  - {fileID: 11400000, guid: ed4ec92d7f4d17a499410ef04e5e2142, type: 2}
+  - {fileID: 11400000, guid: a6b977a1c8b022440812147ca294a2a3, type: 2}
+  - {fileID: 11400000, guid: 4c5785205c02ed84eb3977e5bc65d9e8, type: 2}
+  - {fileID: 11400000, guid: 87d329abc1197ce4495a1f7a79bb8b45, type: 2}
+  - {fileID: 11400000, guid: 3c6f64f1200113942b21084e2ec471e1, type: 2}
+  - {fileID: 11400000, guid: dcac03557d291ca4aa4deba5eaeacf52, type: 2}
+  nombreCreador: Kaseem

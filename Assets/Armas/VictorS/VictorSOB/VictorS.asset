@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: VictorS
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: 46cbe3768518e5d418080b5a16464cbe, type: 2}
+  - {fileID: 11400000, guid: 5cd0b166c9301554d9ef7807587978da, type: 2}
+  - {fileID: 11400000, guid: c1466809d37b9864c874529150041c7c, type: 2}
+  - {fileID: 11400000, guid: 0bc2dedfaee17ef4f99264ec454c131d, type: 2}
+  - {fileID: 11400000, guid: 2fb1f42cf880bc54980a6602f032ba27, type: 2}
+  - {fileID: 11400000, guid: f98ba6cf93ba95845ade33aa2334555e, type: 2}
+  - {fileID: 11400000, guid: 7f33665c27ed6174eb77ce12828ce21c, type: 2}
+  - {fileID: 11400000, guid: b9f5ab229b46d2f4084b19f87ec7a95e, type: 2}
+  nombreCreador: Victor S

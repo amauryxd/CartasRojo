@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: LuzJona
+  m_EditorClassIdentifier: 
+  cartaNombre: Lugas
+  elemento: {fileID: 21300000, guid: 8be7ccd322fa86447b3cc85a048af350, type: 3}
+  hablidadNombre: 'Capitolio '
+  hablidadDescripcion: Capitolio hace que el enemigo sufra todo el odio de dios y
+    sus querubines si este tiene mucho pecados por detras no sabemos ciertamente
+    quepasa solo sabemos que esa persona nunca vuelve
+  armaDescripcion: 'El lugas esta resguardado por la iglesia y es capaz de salvar
+    a los buenos y hacer sufrir horriblemente a los malos,  es muy eficaz al cortar
+    ingredientes y su sabor eso muy bueno  '
+  nombrePersona: Jonathan-Zavala
+  cartaColor: {r: 1, g: 1, b: 1, a: 0}
+  modeloArma: {fileID: 1744208170126443210, guid: 40b63bb59004fe54faeee4a0f01f973c,
+    type: 3}

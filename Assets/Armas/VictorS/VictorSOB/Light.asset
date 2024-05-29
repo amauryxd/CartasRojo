@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: Light
+  m_EditorClassIdentifier: 
+  cartaNombre: Think fast chucklenuts
+  elemento: {fileID: 21300000, guid: 8be7ccd322fa86447b3cc85a048af350, type: 3}
+  hablidadNombre: si
+  hablidadDescripcion: uwu
+  armaDescripcion: uwu x2
+  nombrePersona: Victor S
+  cartaColor: {r: 0.5882353, g: 1, b: 1, a: 1}
+  modeloArma: {fileID: 8857442643154059835, guid: 6c83fddef87e10948939728cc1728dd5,
+    type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: FuegoCarol
+  m_EditorClassIdentifier: 
+  cartaNombre: Fuego Infernal
+  elemento: {fileID: 21300000, guid: 85b0cbb00d13aa448bac8a11e691f189, type: 3}
+  hablidadNombre: Ira
+  hablidadDescripcion: "Si alguien en el juego te hace enojar al soltar esta carta
+    se quemar\xE1 hasta dejar su cuerpo en cenizas."
+  armaDescripcion: "La ira es algo descuctivo, por algo el creador la escondi\xF3
+    toda en este libro en el quinto circulo. Siempre he dudado de su honestidad hacia
+    nosotros. "
+  nombrePersona: Carol
+  cartaColor: {r: 0.4433962, g: 0.018823417, b: 0.084110975, a: 0}
+  modeloArma: {fileID: 6219281147798096646, guid: 2b2cbc25875acc64aa1039cc81f98043,
+    type: 3}

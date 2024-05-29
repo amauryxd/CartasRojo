@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: WilbertRoca
+  m_EditorClassIdentifier: 
+  cartaNombre: kusarigama De piedra
+  elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
+  hablidadNombre: Rock and Stone!
+  hablidadDescripcion: "Hace que caigan peligrosas rocas del cielo hacia el oponente,
+    causando n da\xF1o en area y masivo"
+  armaDescripcion: El poder de los duendes hizo que esta arma fuera creada para la
+    defensa personal en la busca de oro
+  nombrePersona: Wilbert
+  cartaColor: {r: 0.5471698, g: 0.508455, b: 0.508455, a: 0}
+  modeloArma: {fileID: 3306348674246003363, guid: af07f0e9c41c5aa4583c922a6e728c40,
+    type: 3}

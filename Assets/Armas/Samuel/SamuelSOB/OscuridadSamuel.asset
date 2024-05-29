@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: OscuridadSamuel
+  m_EditorClassIdentifier: 
+  cartaNombre: Tempestad Oscura
+  elemento: {fileID: 21300000, guid: e9dc468c9efaa6a46abd44d2cabfcbc0, type: 3}
+  hablidadNombre: Agujero Negro
+  hablidadDescripcion: "Esta arma al ser impacto creara un peque\xF1o agujero negro
+    para retener al enemigo, mientras mas cargada este el arma la fuerza del agujero
+    negro sera mayor."
+  armaDescripcion: Esta arma fue encontrada abandonada en lo mas profundo de una
+    cueva oscura, no se conoce mas informacion de la Tempestad Oscura
+  nombrePersona: Samuel
+  cartaColor: {r: 0.280362, g: 0, b: 0.5566038, a: 0}
+  modeloArma: {fileID: 7149579320319750852, guid: a88b85eb97294e7429aecc583c8bb101,
+    type: 3}

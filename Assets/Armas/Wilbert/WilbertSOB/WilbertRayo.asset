@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: WilbertRayo
+  m_EditorClassIdentifier: 
+  cartaNombre: Kusarigama de Rayo
+  elemento: {fileID: 21300000, guid: 407a2039ab2984842a39e87290ed535e, type: 3}
+  hablidadNombre: E-e-e-electricity!
+  hablidadDescripcion: "Le cae un rayo al enemigo que lo aturde, le hace mucho da\xF1o
+    y ademas le pasa  este da\xF1o a sus aliados cercanos"
+  armaDescripcion: "Esta arma era lo que usaba thor cuando era ni\xF1o"
+  nombrePersona: Wilbert
+  cartaColor: {r: 1, g: 0.977661, b: 0, a: 0}
+  modeloArma: {fileID: 3662798153185902975, guid: 0396a417b131ae64aafd12ff94cbef85,
+    type: 3}

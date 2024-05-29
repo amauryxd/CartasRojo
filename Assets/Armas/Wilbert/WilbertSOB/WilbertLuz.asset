@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: WilbertLuz
+  m_EditorClassIdentifier: 
+  cartaNombre: Kusarigama iluminada
+  elemento: {fileID: 21300000, guid: 8be7ccd322fa86447b3cc85a048af350, type: 3}
+  hablidadNombre: Foco ahorrador
+  hablidadDescripcion: El foco del arma se enciende y deja ciego al oponente, haciendo
+    que su presicion los siguientes 2 turnos sea muy mala
+  armaDescripcion: Esta hecha de focos ahorradores para cuidar el ambiente
+  nombrePersona: Wilbert
+  cartaColor: {r: 1, g: 0.8227806, b: 0, a: 0}
+  modeloArma: {fileID: 8485647607102368028, guid: 7c4b4283261e0264dbe06a96e031a579,
+    type: 3}

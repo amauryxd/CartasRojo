@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: HieloSamuel
+  m_EditorClassIdentifier: 
+  cartaNombre: Filo Polar
+  elemento: {fileID: 21300000, guid: f51bbdcfefe077b4e81a14c63a86755c, type: 3}
+  hablidadNombre: Muro de Hielo
+  hablidadDescripcion: Al cargar el arma y lanzarla creara un muro de hielo todo
+    el camino que esta recorra, mientras mas se carge el arma el muro sera mas alto.
+  armaDescripcion: Se uso un pedazo de hiel sgrado para la elaboracion de esta misma,
+    al igual que es la que la da su habilidad.
+  nombrePersona: Samuel
+  cartaColor: {r: 0.29236382, g: 0.8490566, b: 0.844457, a: 0}
+  modeloArma: {fileID: 2214184974430083815, guid: de584b875aa8235408a545e859db1c53,
+    type: 3}

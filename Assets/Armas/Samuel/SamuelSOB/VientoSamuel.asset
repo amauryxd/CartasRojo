@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: VientoSamuel
+  m_EditorClassIdentifier: 
+  cartaNombre: AeroStriker
+  elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
+  hablidadNombre: Velocidad Sonica
+  hablidadDescripcion: "Esta arma depende de su velocidad para causar da\xF1o, dependiendo
+    de lo cargada que este el arma, su velocidad sera alta o baja al igual que su
+    da\xF1o."
+  armaDescripcion: Se desplumo un pajarito raro para crear la hoja de esta arma.
+  nombrePersona: Samuel
+  cartaColor: {r: 0.46333218, g: 0.6861263, b: 0.7169812, a: 0}
+  modeloArma: {fileID: 1154678962731494112, guid: c61ebfca85a1e094eb5511924927330d,
+    type: 3}

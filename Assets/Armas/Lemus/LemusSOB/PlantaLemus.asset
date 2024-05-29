@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: PlantaLemus
+  m_EditorClassIdentifier: 
+  cartaNombre: Tree Axe
+  elemento: {fileID: 21300000, guid: a0a1399880bd9ff468e12a400eed2cea, type: 3}
+  hablidadNombre: Life goes on
+  hablidadDescripcion: "Al activar la habilidad de esta hacha, se crea un efecto
+    curativo que te cura 10% de la vida total durante 3 turnos. \nTiempo de recarga:
+    6 turnos."
+  armaDescripcion: "Esta hacha fue hecha con la madera del mismisimo \xE1rbol de
+    la vida del que hablan los celtas y que sostiene Asgard. Sin embargo, entre m\xE1s
+    lejos est\xE1 del \xE1rbol principal, su poder es menor."
+  nombrePersona: Lemus
+  cartaColor: {r: 0.083590984, g: 0.56078434, b: 0, a: 1}
+  modeloArma: {fileID: 2247378044520645672, guid: db99e5d09ce119742ab0727e835ef3e8,
+    type: 3}

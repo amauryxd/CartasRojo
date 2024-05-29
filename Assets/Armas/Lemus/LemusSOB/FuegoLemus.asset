@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: FuegoLemus
+  m_EditorClassIdentifier: 
+  cartaNombre: The fire Axe
+  elemento: {fileID: 21300000, guid: 85b0cbb00d13aa448bac8a11e691f189, type: 3}
+  hablidadNombre: Hell is colder
+  hablidadDescripcion: "Al activar esta habilidad, el hacha empieza a sacar fuego
+    a varios metros, volvi\xE9ndose pr\xE1cticamente un lanzallamas capaz de quemar
+    a los enemigos enfrente y a los lados, dej\xE1ndoles un da\xF1o de fuego que
+    dura durante 3 turnos, disminuyendo la vida del enemigo 10% cada turno.\nTiempo
+    de recarga: 5 turnos."
+  armaDescripcion: "Un viejo mago hace mucho tiempo hizo esta hacha, y se dice que
+    solo un avatar que domine el fuego puede manejarla de manera correcta. As\xED
+    que recuerda, juega con fuego y alguien resultar\xE1 quemado."
+  nombrePersona: Lemus
+  cartaColor: {r: 1, g: 0, b: 0.028076172, a: 1}
+  modeloArma: {fileID: 6942713271651732021, guid: f20dfd7361cb999499eca39d7218f8dd,
+    type: 3}

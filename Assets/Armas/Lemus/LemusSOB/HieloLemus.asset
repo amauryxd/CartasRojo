@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: HieloLemus
+  m_EditorClassIdentifier: 
+  cartaNombre: Cold as hell
+  elemento: {fileID: 21300000, guid: f51bbdcfefe077b4e81a14c63a86755c, type: 3}
+  hablidadNombre: Invierno abrasador
+  hablidadDescripcion: "Al activar esta habilidad, el hacha empieza a despedir una
+    ola de fr\xEDo que hace que los enemigos no puedan atacar durante el siguiente
+    turno. Adem\xE1s, desprende varios picos de hielo que inflingen da\xF1o a los
+    enemigos equivalente al 5% de su vida total.\n Tiempo de recarga: 4 turnos."
+  armaDescripcion: "Esta arma, que solo puede ser usada con guantes especiales, fue
+    encontrada en lo m\xE1s profundo de la ant\xE1rtida durante una investigaci\xF3n
+    de rutina para extraer minerales. El hecho de que exista plantea muchas preguntas
+    acerca de su procedencia o c\xF3mo funciona su magia."
+  nombrePersona: Lemus
+  cartaColor: {r: 0, g: 1, b: 0.935786, a: 1}
+  modeloArma: {fileID: 755626206706915155, guid: 5d8a4aa0079a2a74ea6a5272d000c539,
+    type: 3}

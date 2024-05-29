@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: PlantaCarol
+  m_EditorClassIdentifier: 
+  cartaNombre: "Jard\xEDn del Ed\xE9n"
+  elemento: {fileID: 21300000, guid: a0a1399880bd9ff468e12a400eed2cea, type: 3}
+  hablidadNombre: "Para\xEDso"
+  hablidadDescripcion: "Las cartas de tu mano se van a convertir en la carta del
+    Jard\xEDn del Ed\xE9n."
+  armaDescripcion: "Siempre fue una mentira, la manzana fue creada por \xC9l. Este
+    grimorio cuenta la historia verdadera pero nunca lo podr\xE9 abrir."
+  nombrePersona: Carol
+  cartaColor: {r: 0.8993533, g: 0.9716981, b: 0.8387771, a: 0}
+  modeloArma: {fileID: 4853386539199629470, guid: 0b985a6053f5e37428e2f129ba803dde,
+    type: 3}

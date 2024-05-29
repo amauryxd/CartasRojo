@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: Wilbert
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: bc247eb9e2bea9644bcc61cec6d62dae, type: 2}
+  - {fileID: 11400000, guid: 9469b9ba766b67841a5b836751d1f4fc, type: 2}
+  - {fileID: 11400000, guid: e2828784bc8ccaf41ab22537949a63c0, type: 2}
+  - {fileID: 11400000, guid: d5bcebb9721f88943a0ab55958fbd3f5, type: 2}
+  - {fileID: 11400000, guid: 79e380ebbd5e03e46ae5c24396a1d26a, type: 2}
+  - {fileID: 11400000, guid: c799883507569994ab70b324b5367434, type: 2}
+  - {fileID: 11400000, guid: b0932a76fc2191749b5b11a9e9711b44, type: 2}
+  - {fileID: 11400000, guid: cb11ec8057fb0fd4f861370571915f09, type: 2}
+  nombreCreador: Wilbert
