@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: venenoJona
+  m_EditorClassIdentifier: 
+  cartaNombre: Vnerath
+  elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
+  hablidadNombre: Venus
+  hablidadDescripcion: Venus suena igual al planetas Venus talvez porque el veneno
+    que este da es estan mortal, no afecta a su portador
+  armaDescripcion: Vnerath es un arma encontrada en un meteorito de direccion desconocida
+    cuando su veneno te toca tienes furetes alucinaciones en el planeta venus es
+    capaz de comerte los ojos y que tu salud mental  baje, ni se te ocurra tocar
+    su punta
+  nombrePersona: Jonathan-Zavala
+  cartaColor: {r: 0.2759325, g: 0, b: 0.6886792, a: 0}
+  modeloArma: {fileID: 5695829279743042068, guid: d036e88c6e50e76449822443961372ed,
+    type: 3}

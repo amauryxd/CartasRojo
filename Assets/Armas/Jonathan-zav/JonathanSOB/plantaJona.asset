@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: plantaJona
+  m_EditorClassIdentifier: 
+  cartaNombre: Cuchilla-de-hoja
+  elemento: {fileID: 21300000, guid: a0a1399880bd9ff468e12a400eed2cea, type: 3}
+  hablidadNombre: Tornado de Hojas
+  hablidadDescripcion: "El tornado de hojas es un fuerte ataque que envuelve toda
+    el arma con hojas ultra-afiladas capas de da\xF1ar a cualquiera excepto al portador
+    en un rango "
+  armaDescripcion: 'la cuchilla de hoja es fiel a su portador si alguien mas que 
+    no sea el portador la lleva se marchitara a los segundos que la otra persona
+    lo agarre, cuando llueve huele muy bien '
+  nombrePersona: Jonathan-Zavala
+  cartaColor: {r: 0.08147027, g: 0.3679245, b: 0.050329305, a: 0}
+  modeloArma: {fileID: 51790440896329435, guid: cc06e111180b4e2459c22dcc3a62d1e0,
+    type: 3}
