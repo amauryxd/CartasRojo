@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: MazoHielo
+  m_EditorClassIdentifier: 
+  cartaNombre: DeepFreeze
+  elemento: {fileID: 21300000, guid: f51bbdcfefe077b4e81a14c63a86755c, type: 3}
+  hablidadNombre: Lluvia de nitrogeno
+  hablidadDescripcion: "Crea gotas de nitrogeno liquido que deja caer alrededor del
+    portador para protegerlo o asignar un area para hacer da\xF1o."
+  armaDescripcion: "Un dia un troll de las monta\xF1as encontro un pedazo de hielo
+    y atraveso con un palo, desde entonces se creo el mazo de hielo imbuida con la
+    magia de los troles de hielo."
+  nombrePersona: Jonathan Pacheco
+  cartaColor: {r: 0.08223567, g: 0.47146314, b: 0.8301887, a: 1}
+  modeloArma: {fileID: 0}
