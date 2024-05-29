@@ -257,9 +257,9 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.29236382, g: 0.8490566, b: 0.844457, a: 0}
+    - _BaseColor: {r: 0.16006587, g: 0.31132078, b: 0.18099862, a: 0}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 0.2923638, g: 0.8490566, b: 0.844457, a: 0}
+    - _Color: {r: 0.8761806, g: 1, b: 0, a: 0}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}

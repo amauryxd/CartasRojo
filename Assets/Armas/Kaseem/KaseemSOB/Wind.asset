@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Wind
   m_EditorClassIdentifier: 
   cartaNombre: Buster
-  elemento: {fileID: 0}
+  elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
   hablidadNombre: Efecto Mariposa
   hablidadDescripcion: Puede cotrolar el viento a voluntar, afectar todo aquello
     que su portador ve, siente o imagina.
