@@ -12,11 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
   m_Name: Ice
   m_EditorClassIdentifier: 
-  cartaNombre: Ice Ice Baby
+  cartaNombre: Frost Shuriken
   elemento: {fileID: 21300000, guid: f51bbdcfefe077b4e81a14c63a86755c, type: 3}
-  hablidadNombre: si
-  hablidadDescripcion: uwu
-  armaDescripcion: uwunt
+  hablidadNombre: Glacial Strike
+  hablidadDescripcion: "Al lanzar el Frost Shuriken, este se rodea de una aura de
+    escarcha que congela el aire a su paso. Al impactar, el shuriken explota en una
+    nube de fragmentos de hielo, causando da\xF1o en \xE1rea y congelando a los enemigos
+    cercanos, reduciendo su velocidad y defensa."
+  armaDescripcion: "El Frost Shuriken fue forjado en las heladas tierras del Norte,
+    en el coraz\xF3n del Glaciar Eterno, un lugar donde el fr\xEDo es tan intenso
+    que la misma realidad parece congelarse. Creado por el Clan Yuki-Onna, maestros
+    del hielo y la nieve."
   nombrePersona: Victor S
   cartaColor: {r: 0.1745283, g: 0.7451373, b: 1, a: 1}
   modeloArma: {fileID: 8880987752193475296, guid: 73bf34097d5457d40afc16b39473201c,

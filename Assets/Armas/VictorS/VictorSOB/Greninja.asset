@@ -14,9 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cartaNombre: Greninja Shuriken
   elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
-  hablidadNombre: si
-  hablidadDescripcion: uwu
-  armaDescripcion: uwu x2
+  hablidadNombre: Splash Hit
+  hablidadDescripcion: Al lanzar este shuriken, encuentra su camino atraves del aire
+    fluyendo como agua, esquivando barreras y escudos para impactar con el objetivo,
+    una vez que alcanza su objetivo, libera una explosion de agua que empuja a todos
+    los enemigos hacia atras. Este shuriken deja a los enemigos empapados, haciendolos
+    mas vulnerables a ataques de energia y de hielo.
+  armaDescripcion: No hay mucho que decir, son los shuriken del Pokemon Greninja,
+    introducido en la generacion 6, siendo la evolucion de Frogadier.
   nombrePersona: Victor S
   cartaColor: {r: 0.3820755, g: 0.61491126, b: 1, a: 1}
   modeloArma: {fileID: 7073510551962172387, guid: 8ed67a88ef9615d41bf18ea8ed942561,

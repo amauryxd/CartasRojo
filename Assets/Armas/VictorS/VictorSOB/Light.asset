@@ -14,9 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cartaNombre: Think fast chucklenuts
   elemento: {fileID: 21300000, guid: 8be7ccd322fa86447b3cc85a048af350, type: 3}
-  hablidadNombre: si
-  hablidadDescripcion: uwu
-  armaDescripcion: uwu x2
+  hablidadNombre: Light flare
+  hablidadDescripcion: "Al lanzar el Radiant Shuriken, este se envuelve en una intensa
+    luz que ilumina todo a su paso. Al impactar, el shuriken libera una explosi\xF3n
+    de luz cegadora que causa da\xF1o en \xE1rea y deja temporalmente cegados a los
+    enemigos cercanos."
+  armaDescripcion: "Este shuriken fue forjado en el Templo de Solara, un santuario
+    dedicado a los antiguos dioses del sol y la luz. Creado por los sacerdotes de
+    la orden Solarion, conocidos por su devoci\xF3n al poder purificador de la luz."
   nombrePersona: Victor S
   cartaColor: {r: 0.5882353, g: 1, b: 1, a: 1}
   modeloArma: {fileID: 8857442643154059835, guid: 6c83fddef87e10948939728cc1728dd5,

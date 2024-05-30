@@ -12,12 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
   m_Name: Plant
   m_EditorClassIdentifier: 
-  cartaNombre: Flower Shuriken
+  cartaNombre: Blossom Shuriken
   elemento: {fileID: 21300000, guid: a0a1399880bd9ff468e12a400eed2cea, type: 3}
-  hablidadNombre: sis
-  hablidadDescripcion: uwu
-  armaDescripcion: uwunt
+  hablidadNombre: Petal Storm
+  hablidadDescripcion: "Al lanzar el Blossom Shuriken, este se transforma en un torbellino
+    de p\xE9talos afilados que giran a gran velocidad. Al impactar, el shuriken libera
+    una explosi\xF3n de p\xE9talos que se dispersan y causan da\xF1o cortante en
+    un \xE1rea amplia."
+  armaDescripcion: "El Blossom Shuriken fue creado en el Jard\xEDn de los Ancestros,
+    un lugar sagrado donde las flores m\xE1gicas florecen eternamente. Forjado por
+    los druidas del Clan Floralis, conocidos por su habilidad para manipular la naturaleza
+    y las plantas."
   nombrePersona: Victor S
-  cartaColor: {r: 0.12186452, g: 0.5754717, b: 0, a: 1}
+  cartaColor: {r: 1, g: 0.5330188, b: 0.84199744, a: 1}
   modeloArma: {fileID: 6560271429415742151, guid: 27fd26a34ad14464aa1512ba20278117,
     type: 3}

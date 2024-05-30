@@ -12,11 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
   m_Name: Fire
   m_EditorClassIdentifier: 
-  cartaNombre: Fire Shuriken
+  cartaNombre: Blaze Shuriken
   elemento: {fileID: 21300000, guid: 85b0cbb00d13aa448bac8a11e691f189, type: 3}
-  hablidadNombre: si
-  hablidadDescripcion: uwu
-  armaDescripcion: uwu
+  hablidadNombre: Inferno Burst
+  hablidadDescripcion: "Al lanzar el Blaze Shuriken, este se envuelve en llamas intensas
+    y crea una estela de fuego a su paso. Al impactar, el shuriken explota en una
+    r\xE1faga de llamas, causando da\xF1o de \xE1rea y prendiendo fuego a los enemigos
+    cercanos."
+  armaDescripcion: "El Blaze Shuriken fue forjado en los legendarios fuegos del Monte
+    Kaji, un volc\xE1n activo conocido por su conexi\xF3n con los esp\xEDritus del
+    fuego. Fue creado por una antigua orden de forjadores y hechiceros conocidos
+    como los Maestros de la Llama."
   nombrePersona: Victor S
   cartaColor: {r: 1, g: 0.023584902, b: 0.023584902, a: 1}
   modeloArma: {fileID: 7714999920396129932, guid: 5c21aaba8de0de44aab585cf2d9c2323,

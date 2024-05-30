@@ -33821,6 +33821,7 @@ GameObject:
   - component: {fileID: 8924939262677027172}
   - component: {fileID: 1394918450119301832}
   - component: {fileID: 3496513523648935387}
+  - component: {fileID: -2986085841001520558}
   m_Layer: 0
   m_Name: ElectricShurikenFinal
   m_TagString: Untagged
@@ -33838,7 +33839,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -1, y: -0.3, z: 0}
-  m_LocalScale: {x: 200, y: 200, z: 200}
+  m_LocalScale: {x: 200, y: 200, z: 150}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7220360553810653595}
@@ -33907,6 +33908,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &-2986085841001520558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5375046728942812183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e0c198faeb7ccc4798eac2747db684e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadRotacion: 30
+  rotarEnEjeX: 1
+  rotarEnEjeY: 1
+  rotarEnEjeZ: 1
 --- !u!1 &5778328007540209753
 GameObject:
   m_ObjectHideFlags: 0
