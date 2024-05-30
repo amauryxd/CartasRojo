@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: LuzHector
+  m_EditorClassIdentifier: 
+  cartaNombre: Poder Angelical
+  elemento: {fileID: 21300000, guid: 8be7ccd322fa86447b3cc85a048af350, type: 3}
+  hablidadNombre: Dios esta contigo
+  hablidadDescripcion: Usando las auroras de los angeles, con este ataque puedes
+    mandar a alguien a conocer a Diosito
+  armaDescripcion: Arma celestial que cayo a la tierra, un sacerdote la encontro
+    y ahora la usa para reformar a aquellos que no creen en Dios
+  nombrePersona: Hector
+  cartaColor: {r: 1, g: 1, b: 1, a: 0}
+  modeloArma: {fileID: 4870893128361682665, guid: 9d3c77f663ba419488dd63bc715f9c4f,
+    type: 3}

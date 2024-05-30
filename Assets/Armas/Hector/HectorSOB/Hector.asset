@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: Hector
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: 57140ffb5291b5e42ac8149541b4446f, type: 2}
+  - {fileID: 11400000, guid: 5c1b1f0e0d4c0b545aa5077cae7a57ff, type: 2}
+  - {fileID: 11400000, guid: 2898fc9463844d24eafcb3b83f84b732, type: 2}
+  - {fileID: 11400000, guid: 8b68f5dd49dae914fb84384a5422d9c8, type: 2}
+  - {fileID: 11400000, guid: a883fff2de394964083f603dcfd03dd3, type: 2}
+  - {fileID: 11400000, guid: 46422f03ec5870f4b8fd80ce7f432f01, type: 2}
+  - {fileID: 11400000, guid: 7fd433d10e5ac43439fff1e6e6e1c226, type: 2}
+  - {fileID: 11400000, guid: 2e01c4b63a8c4814697df95073aaa976, type: 2}
+  nombreCreador: Hector

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: CoheteHector
+  m_EditorClassIdentifier: 
+  cartaNombre: Apollo 37
+  elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
+  hablidadNombre: Al infinito y mas alla
+  hablidadDescripcion: "El usuario puede generar una explosi\xF3n en los propulsores
+    de los cohetes para aumentar la velocidad y fuerza del golpe. Tambi\xE9n se puede
+    usar para volar por cortos periodos."
+  armaDescripcion: Fue creado por la NASA para combatir posibles inconvenientes en
+    las misiones espaciales
+  nombrePersona: Hector
+  cartaColor: {r: 1, g: 0.057804294, b: 0, a: 0}
+  modeloArma: {fileID: 6746846955413631195, guid: 1071903ba077b8c46b886aa6072ab621,
+    type: 3}
