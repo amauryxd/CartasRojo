@@ -22,4 +22,5 @@ MonoBehaviour:
     magia de los troles de hielo."
   nombrePersona: Jonathan Pacheco
   cartaColor: {r: 0.08223567, g: 0.47146314, b: 0.8301887, a: 1}
-  modeloArma: {fileID: 0}
+  modeloArma: {fileID: 8506381288111402480, guid: f1435cf355b0e76479553abd69efdee2,
+    type: 3}

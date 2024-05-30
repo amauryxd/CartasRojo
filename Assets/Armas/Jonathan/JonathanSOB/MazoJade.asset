@@ -14,9 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cartaNombre: Piedra Filosofal
   elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
-  hablidadNombre: 
-  hablidadDescripcion: 
-  armaDescripcion: 
-  nombrePersona: 
-  cartaColor: {r: 0, g: 0, b: 0, a: 0}
-  modeloArma: {fileID: 0}
+  hablidadNombre: Ataque Piedroso
+  hablidadDescripcion: Crea una gran piedra que deja azotar fuertemente contra el
+    piso, creando minisismos a los alrededores del impacto.
+  armaDescripcion: Los piedrosos del centro encontraron este majestuso jade y quisieron
+    fumarlo, pero al no poder crearon el arma definitiva de los piedrosos.
+  nombrePersona: Jonathan Pacheco
+  cartaColor: {r: 0, g: 1, b: 0.42206, a: 1}
+  modeloArma: {fileID: 8956721355173724680, guid: 6d058ecb5f8e480449cd3098e0258c82,
+    type: 3}

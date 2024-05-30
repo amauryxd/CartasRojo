@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: JonathanPacheco
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: b1ac18bc353a2274ba21280d4caeb97f, type: 2}
+  - {fileID: 11400000, guid: 95d5c64db0cca3c4dae6c065647acd50, type: 2}
+  - {fileID: 11400000, guid: f308fbbaf13939447a106b3911148012, type: 2}
+  - {fileID: 11400000, guid: 73b21b1b365ea3748aab5ad9e9baf70a, type: 2}
+  - {fileID: 11400000, guid: dab997df53f44264e82852919b01a96d, type: 2}
+  - {fileID: 11400000, guid: 96266c20f441dc243b0e2de7bb2da0a0, type: 2}
+  - {fileID: 11400000, guid: 21623889ea8cdac40b8c2a027ec807d1, type: 2}
+  - {fileID: 11400000, guid: 9b3d4c3c7f2522044b75baa11ce7f0cf, type: 2}
+  nombreCreador: Jonathan Pacheco

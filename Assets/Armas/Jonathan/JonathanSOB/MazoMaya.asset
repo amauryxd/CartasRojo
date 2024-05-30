@@ -12,11 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
   m_Name: MazoMaya
   m_EditorClassIdentifier: 
-  cartaNombre: 
+  cartaNombre: Tlaxcala
   elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
   hablidadNombre: Meteor Strike
-  hablidadDescripcion: 
-  armaDescripcion: 
-  nombrePersona: 
-  cartaColor: {r: 0, g: 0, b: 0, a: 0}
-  modeloArma: {fileID: 0}
+  hablidadDescripcion: Crea una lluvia de meteoritos que limpia todo un area asignada.
+  armaDescripcion: Como la ciudad ficticia, esta arma se cree que es una simple leyenda
+    que los antiguos crearon como metodo de proteccion de su pueblo.
+  nombrePersona: Jonathan Pacheco
+  cartaColor: {r: 0.340732, g: 0.6509434, b: 0.28555533, a: 1}
+  modeloArma: {fileID: 4310321467288296917, guid: 24034063d9e69ba4c804abb65e11f7a7,
+    type: 3}
