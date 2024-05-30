@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: HieloAndre
+  m_EditorClassIdentifier: 
+  cartaNombre: Glaciar
+  elemento: {fileID: 21300000, guid: f51bbdcfefe077b4e81a14c63a86755c, type: 3}
+  hablidadNombre: Toque Gelido
+  hablidadDescripcion: Cuando su portador aprieta el gatillo, las balas se cubren
+    de una escarcha azulada.
+  armaDescripcion: "La Glaciar es una pistola de dise\xF1o elegante, esculpida por
+    los maestros artesanos de la Ciudad de Hielo."
+  nombrePersona: Andre
+  cartaColor: {r: 0, g: 0.71991634, b: 1, a: 0}
+  modeloArma: {fileID: 9135752576095853165, guid: 4ea415c3fd26b294f9e572cf97f6d8d1,
+    type: 3}

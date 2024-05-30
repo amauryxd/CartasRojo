@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: AguaAndre
+  m_EditorClassIdentifier: 
+  cartaNombre: La Tormenta Marina
+  elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
+  hablidadNombre: Disparo de Agua
+  hablidadDescripcion: Un solo disparo lanza un chorro que atraviesa el aire como
+    un maremoto.
+  armaDescripcion: "La Tormenta Marina es la pistola de agua definitiva, forjada
+    por los artesanos de Atlantis. Con un dise\xF1o elegante y grabados de olas en
+    movimiento, esta arma combina precisi\xF3n y poder."
+  nombrePersona: Andre
+  cartaColor: {r: 0, g: 0.04083681, b: 1, a: 0}
+  modeloArma: {fileID: 6618509805817185433, guid: 0c87a2a4da1621f4a80dc998a4f30023,
+    type: 3}

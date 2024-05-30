@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: Andre
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: 739146b9c7dd593458908495547313fc, type: 2}
+  - {fileID: 11400000, guid: 81c4c1001c244dd4fb11e696672d7ecc, type: 2}
+  - {fileID: 11400000, guid: e8526f6c58d4439499a79a2ac3c54d90, type: 2}
+  - {fileID: 11400000, guid: 958366fcc482c8b46b47e729ddf8cff6, type: 2}
+  - {fileID: 11400000, guid: 8e6bf313bccf69647b7dfcbb2c298603, type: 2}
+  - {fileID: 11400000, guid: b3788a8ddcbf7e5419617245380027e5, type: 2}
+  - {fileID: 11400000, guid: b4ba374a97bd59049b495d74b480e6b7, type: 2}
+  - {fileID: 11400000, guid: 93214a30506e54f4bb17844d027571dd, type: 2}
+  nombreCreador: Andre
