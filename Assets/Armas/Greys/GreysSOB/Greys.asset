@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: Greys
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: 3554ae60279fe4746a58cd0eb4264320, type: 2}
+  - {fileID: 11400000, guid: f29e2d8759aee1f4a97b9f728d4db247, type: 2}
+  - {fileID: 11400000, guid: d6c54b57030e5774c9dd8d7a4630a1d9, type: 2}
+  - {fileID: 11400000, guid: f7c95b36df6467f46b33bd510bf02bbb, type: 2}
+  - {fileID: 11400000, guid: 29c304c3457f76e4ba892009ee11c085, type: 2}
+  - {fileID: 11400000, guid: bc641fb823e8ee6418b2975d648d39c0, type: 2}
+  - {fileID: 11400000, guid: 7afa5be03f37d9f448ad51c9ae933023, type: 2}
+  - {fileID: 11400000, guid: d18926ddcbce4894899fa0f166b6db40, type: 2}
+  nombreCreador: Greys

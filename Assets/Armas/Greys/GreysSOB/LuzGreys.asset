@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: LuzGreys
+  m_EditorClassIdentifier: 
+  cartaNombre: Light CrossBow
+  elemento: {fileID: 21300000, guid: 8be7ccd322fa86447b3cc85a048af350, type: 3}
+  hablidadNombre: Luz
+  hablidadDescripcion: Purifica a tus enemigos, tal vez eliminando su existencia
+  armaDescripcion: Encontrada cuando crees que ya no queda esperanza
+  nombrePersona: Greys
+  cartaColor: {r: 1, g: 0.99932176, b: 0.9968553, a: 0}
+  modeloArma: {fileID: 947143222960971441, guid: 7e1c3a59ffefba144938127e794ea9d8,
+    type: 3}

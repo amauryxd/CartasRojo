@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: OscuridadGreys
+  m_EditorClassIdentifier: 
+  cartaNombre: Dark CrossBow
+  elemento: {fileID: 21300000, guid: e9dc468c9efaa6a46abd44d2cabfcbc0, type: 3}
+  hablidadNombre: Oscuridad
+  hablidadDescripcion: Maldice a tus enemigos
+  armaDescripcion: Dentro de tu propia maldad puedes conseguirla
+  nombrePersona: Greys
+  cartaColor: {r: 0, g: 0, b: 0, a: 0}
+  modeloArma: {fileID: 1164130941776516296, guid: 1a9227f43c1d0b24f8fe755559a6cdd1,
+    type: 3}
