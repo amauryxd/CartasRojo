@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: HieloVicio
+  m_EditorClassIdentifier: 
+  cartaNombre: Cor Impetum
+  elemento: {fileID: 21300000, guid: f51bbdcfefe077b4e81a14c63a86755c, type: 3}
+  hablidadNombre: Lluvia
+  hablidadDescripcion: "Crea estacas de hielo que caen como lluvia en un area.\t"
+  armaDescripcion: Forjada con las escamas de un dragon helado, su forma pareciera
+    ser de cristal, sin embargo su dureza es notable.
+  nombrePersona: Vicio
+  cartaColor: {r: 0, g: 1, b: 1, a: 1}
+  modeloArma: {fileID: 3057371151973668475, guid: 617134c0dcf43cd41b23b33fcf131058,
+    type: 3}

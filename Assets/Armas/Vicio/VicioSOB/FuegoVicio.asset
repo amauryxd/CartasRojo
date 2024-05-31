@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: FuegoVicio
+  m_EditorClassIdentifier: 
+  cartaNombre: Nova
+  elemento: {fileID: 21300000, guid: 85b0cbb00d13aa448bac8a11e691f189, type: 3}
+  hablidadNombre: HellBlade
+  hablidadDescripcion: "Exoulsa una llama que incrementa su tama\xF1o dependiendo
+    de como se use la katana."
+  armaDescripcion: Katana forjada con el nucleo de una estrella, alberga las llamas
+    de un sol.
+  nombrePersona: Vicio
+  cartaColor: {r: 0.3254902, g: 0.06505875, b: 0.06505875, a: 1}
+  modeloArma: {fileID: 7302699621758496458, guid: 4cf4f984eac2c6a4c8cc5a983d05ab61,
+    type: 3}
