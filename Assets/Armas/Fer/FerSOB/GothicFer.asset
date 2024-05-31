@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: GothicFer
+  m_EditorClassIdentifier: 
+  cartaNombre: Sangre Nocturna
+  elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
+  hablidadNombre: "Enjambre de Murci\xE9lagos"
+  hablidadDescripcion: "El portador de la Sangre Nocturna puede invocar un enjambre
+    de murci\xE9lagos vamp\xEDricos, que asaltan a los enemigos, absorben su energ\xEDa
+    vital y la transfieren al portador."
+  armaDescripcion: "Esta guada\xF1a tiene un dise\xF1o retorcido y est\xE1 empapada
+    con la esencia de la noche eterna. Su hoja no solo corta, sino que tambi\xE9n
+    drena la vida de sus v\xEDctimas, alimentando al portador con su vitalidad. Ideal
+    para aquellos que abrazan la oscuridad y la sed de sangre."
+  nombrePersona: Fer
+  cartaColor: {r: 0.3207547, g: 0, b: 0, a: 0}
+  modeloArma: {fileID: 5641734354920126589, guid: 59c9b0db1ff313942b1f60c07f805e87,
+    type: 3}

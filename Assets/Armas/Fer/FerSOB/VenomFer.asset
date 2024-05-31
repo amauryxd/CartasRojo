@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: VenomFer
+  m_EditorClassIdentifier: 
+  cartaNombre: Toxina Mortal
+  elemento: {fileID: 21300000, guid: fef3e87b6b7ad81488b58dec281d46ea, type: 3}
+  hablidadNombre: Nube de Pestilencia
+  hablidadDescripcion: "El portador de la Plaga Mortal puede desatar una nube t\xF3xica
+    y mortal de veneno que envuelve a los enemigos, corrompiendo su carne y debilit\xE1ndolos
+    con su letalidad."
+  armaDescripcion: "Forjada en los pantanos m\xE1s t\xF3xicos, esta guada\xF1a est\xE1
+    impregnada con venenos letales. Su hoja exuda un l\xEDquido venenoso que puede
+    paralizar y corroer a sus enemigos lentamente. Perfecta para aquellos que disfrutan
+    de la crueldad y el sufrimiento prolongado de sus adversarios."
+  nombrePersona: Fer
+  cartaColor: {r: 0.3513583, g: 0, b: 0.6603774, a: 0}
+  modeloArma: {fileID: 1425835344787366037, guid: 402ce3be567e94a44bf2b00cb14eec89,
+    type: 3}

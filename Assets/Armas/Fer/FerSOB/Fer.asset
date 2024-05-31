@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f287a0669c85a246850f82656f31814, type: 3}
+  m_Name: Fer
+  m_EditorClassIdentifier: 
+  armasSOB:
+  - {fileID: 11400000, guid: d15c1dc800c5e6c4eb14ff2e3035892a, type: 2}
+  - {fileID: 11400000, guid: a83cab9e951b19e41aab258c0fdb7638, type: 2}
+  - {fileID: 11400000, guid: b4a3b4bd704316649bc19415dc64877d, type: 2}
+  - {fileID: 11400000, guid: e16991af595e8b142b805e266c5af5c2, type: 2}
+  - {fileID: 11400000, guid: c76b98292209d74488e17b9ffc844206, type: 2}
+  - {fileID: 11400000, guid: 1ffc63baa93d28e4084dc17bbec9b1d3, type: 2}
+  - {fileID: 11400000, guid: 7919c24a043cc8b488296137edb83b1a, type: 2}
+  - {fileID: 11400000, guid: 19353698a1ac2564180b70f8480beb91, type: 2}
+  nombreCreador: Fer

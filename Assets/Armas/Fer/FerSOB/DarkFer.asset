@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: DarkFer
+  m_EditorClassIdentifier: 
+  cartaNombre: Sombra Mortal
+  elemento: {fileID: 21300000, guid: e9dc468c9efaa6a46abd44d2cabfcbc0, type: 3}
+  hablidadNombre: Miasma Letal
+  hablidadDescripcion: "El portador de la Sombra Mortal puede invocar un c\xEDrculo
+    m\xE1gico oscuro en el suelo, del cual emana un miasma letal que corroe y debilita
+    a todos los enemigos atrapados en su \xE1rea de efecto."
+  armaDescripcion: "Envuelta en un aura de oscuridad profunda, esta guada\xF1a absorbe
+    la luz a su alrededor. Su hoja, negra como la noche, puede cortar no solo carne,
+    sino tambi\xE9n almas. Perfecta para los asesinos y guerreros de las sombras
+    que buscan eliminar a sus enemigos sin dejar rastro."
+  nombrePersona: Fer
+  cartaColor: {r: 0.5306463, g: 0, b: 0.6698113, a: 0}
+  modeloArma: {fileID: 9087275610805723028, guid: b8eda19ea3ff7c34d903daad04a39a64,
+    type: 3}

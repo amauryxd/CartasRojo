@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: EarthFer
+  m_EditorClassIdentifier: 
+  cartaNombre: Terremoto Devastador
+  elemento: {fileID: 21300000, guid: a0a1399880bd9ff468e12a400eed2cea, type: 3}
+  hablidadNombre: "Rugido S\xEDsmico"
+  hablidadDescripcion: El portador de la Temblor Arrasador puede desatar un poderoso
+    terremoto que sacude el suelo, desestabilizando a los enemigos y causando estragos
+    en su paso.
+  armaDescripcion: "Esta guada\xF1a est\xE1 hecha de los minerales m\xE1s duros y
+    antiguos del mundo. Su hoja est\xE1 tan afilada y pesada que puede partir rocas
+    y hacer temblar la tierra con cada golpe. Ideal para los guerreros que invocan
+    la fuerza de la naturaleza y desean aplastar a sus enemigos con poder bruto."
+  nombrePersona: Fer
+  cartaColor: {r: 0.509434, g: 0.29202563, b: 0, a: 0}
+  modeloArma: {fileID: 9138082242800802594, guid: 4645cdf0413f996448999dc0bd87fd2b,
+    type: 3}

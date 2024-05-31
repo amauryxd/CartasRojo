@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: IceFer
+  m_EditorClassIdentifier: 
+  cartaNombre: Escarcha Letal
+  elemento: {fileID: 21300000, guid: f51bbdcfefe077b4e81a14c63a86755c, type: 3}
+  hablidadNombre: "Estela G\xE9lida"
+  hablidadDescripcion: El portador de la Escarcha Letal puede invocar un sendero
+    de nieve y hielo que se extiende por el campo de batalla, mientras picos de hielo
+    caen del cielo, empalando a los enemigos desprevenidos.
+  armaDescripcion: "Cortada en el coraz\xF3n de un glaciar ancestral, esta guada\xF1a
+    emite un fr\xEDo tan extremo que congela la sangre de quien toca su filo. Su
+    hoja est\xE1 envuelta en una neblina helada, y cada golpe es como el abrazo mortal
+    de un invierno eterno. Perfecta para quienes buscan paralizar a sus oponentes
+    con un solo toque."
+  nombrePersona: Fer
+  cartaColor: {r: 0, g: 0.7397604, b: 1, a: 0}
+  modeloArma: {fileID: 3236726686835129719, guid: b4300d56d26456242bc249777985f651,
+    type: 3}
