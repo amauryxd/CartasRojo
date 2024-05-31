@@ -21,4 +21,5 @@ MonoBehaviour:
     un ni\xF1o en su patio trasero."
   nombrePersona: Jonathan Pacheco
   cartaColor: {r: 0.58017635, g: 1, b: 0, a: 1}
-  modeloArma: {fileID: 0}
+  modeloArma: {fileID: 1726840578870346009, guid: 7e90618713b2f194188e8892e6bce6eb,
+    type: 3}
