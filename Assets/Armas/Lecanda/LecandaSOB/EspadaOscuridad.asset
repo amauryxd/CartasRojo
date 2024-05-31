@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: EspadaOscuridad
+  m_EditorClassIdentifier: 
+  cartaNombre: Llanto de la Oscuridad
+  elemento: {fileID: 21300000, guid: e9dc468c9efaa6a46abd44d2cabfcbc0, type: 3}
+  hablidadNombre: Oscuridad Devoradora
+  hablidadDescripcion: ' Libera un aura de oscuridad que se extiende desde la hoja
+    hasta envolver al portador. Esta oscuridad aumenta la velocidad y agilidad del
+    portador'
+  armaDescripcion: "Es una espada de aspecto siniestro y misterioso, con una hoja
+    de color negro azabache que absorbe la luz a su alrededor. En su hoja tiene una
+    gema morada la cual resplandece con una luz oscura y misteriosa, como si contuviera
+    un poder antiguo y maligno. \r\n"
+  nombrePersona: DiegoL
+  cartaColor: {r: 0.44200578, g: 0.102127105, b: 0.4811321, a: 0}
+  modeloArma: {fileID: 6267783439448859214, guid: 8ec94069db47f2d4285a515c6cba91fb,
+    type: 3}

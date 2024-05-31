@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: EspadadeHielo
+  m_EditorClassIdentifier: 
+  cartaNombre: Espada Gelida
+  elemento: {fileID: 21300000, guid: f51bbdcfefe077b4e81a14c63a86755c, type: 3}
+  hablidadNombre: Rompe Testiculos
+  hablidadDescripcion: "Con su habilidad de congelar test\xEDculos es capaz de derrotar
+    hasta al mism\xEDsimo Jes\xFAs."
+  armaDescripcion: Forjada en el Monte Everest por los Yetis.
+  nombrePersona: Diegol
+  cartaColor: {r: 0, g: 0.8501792, b: 1, a: 0}
+  modeloArma: {fileID: 7543881341654310711, guid: 441b0e8788ddbf14f9dd8f341bed66c5,
+    type: 3}

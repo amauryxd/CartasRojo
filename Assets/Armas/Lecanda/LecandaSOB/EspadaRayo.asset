@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1758eb70b43304f830aaa5e39ff690, type: 3}
+  m_Name: EspadaRayo
+  m_EditorClassIdentifier: 
+  cartaNombre: "Rel\xE1mpago Cortante"
+  elemento: {fileID: 21300000, guid: 407a2039ab2984842a39e87290ed535e, type: 3}
+  hablidadNombre: Tormenta de Rayos
+  hablidadDescripcion: "libera una descarga masiva de energ\xEDa el\xE9ctrica que
+    crea una tormenta de rayos alrededor del portador. "
+  armaDescripcion: " A lo largo de su filo, destellos de luz el\xE9ctrica recorren
+    su superficie, iluminando el entorno con un resplandor amarillo brillante."
+  nombrePersona: Diegol
+  cartaColor: {r: 1, g: 0.8598435, b: 0, a: 0}
+  modeloArma: {fileID: 7393978419063385277, guid: 91a73b8b69138f247ab6c7052986cf1e,
+    type: 3}
