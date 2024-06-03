@@ -28,7 +28,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0.082406625, y: 0.082406625, z: 0.7022885, w: 0.7022885}
   m_LocalPosition: {x: 0.000000019809, y: -0.83, z: -2.32}
-  m_LocalScale: {x: 26.088947, y: 1.2140155, z: 214.57953}
+  m_LocalScale: {x: 28.624794, y: 1.3320178, z: 304.70212}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7614431484612695613}
@@ -4861,7 +4861,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 257
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 93c97da0a9a11174ab89575db81f7917, type: 2}
+  - {fileID: 10301, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 2100000, guid: e39048dcec7945148836101d860d9d34, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0

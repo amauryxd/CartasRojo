@@ -16,7 +16,7 @@ MonoBehaviour:
   elemento: {fileID: 21300000, guid: a0a1399880bd9ff468e12a400eed2cea, type: 3}
   hablidadNombre: Heal
   hablidadDescripcion: Desprende un aura que cura vida y debuffs
-  armaDescripcion: 'Katana forjada en un reino onirico con propiedades curativas. '
+  armaDescripcion: 'Katana forjada en el reino onirico con propiedades curativas. '
   nombrePersona: Vicio
   cartaColor: {r: 0.05931826, g: 0.4056604, b: 0.13778219, a: 1}
   modeloArma: {fileID: 7662382817766804865, guid: 8dba2f28040664f4595da5593cf31813,
